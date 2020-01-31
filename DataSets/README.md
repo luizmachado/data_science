@@ -18,3 +18,16 @@ Some of the interesting questions (tasks) which can be performed on this dataset
 - [ ] Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
 Source: [Kaggle](https://www.kaggle.com/datasets)
+
+
+
+## **SMAL11Daily.csv**:
+ This dataset consists of daily infos about ETF SMALL11
+ 
+ 
+## **PTBL3Daily.csv**:
+This dataset consists of daily infos about PTBL3 shares
+
+
+## **IFIXDaily.csv**:
+This dataset consists of daily infos about IFIX Index
